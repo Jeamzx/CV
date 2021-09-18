@@ -4,4 +4,4 @@ Repositorio del CV de Jeamhowards Montiel
 
 ## Proyecto
 
--[Landing Page de tipo Portafolio-CV](https://jeamzx.github.io/cv/PORTAFOLIO-CV)
+-[Landing Page de tipo Portafolio-CV](https://jeamzx.github.io/CV/PORTAFOLIO-CV)
